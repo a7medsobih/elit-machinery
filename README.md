@@ -1,7 +1,7 @@
 # ⚙️ Elit Machinery - Industrial Company Website Template
 
-A responsive multi-section website template designed for the industrial and machinery sector.  
-Includes sections for company overview, products, services, and contact details.
+A fully responsive multi-page template for the industrial and machinery sector.  
+Features sections for company overview, services, products, and contact details, designed with a professional layout.
 
 ## 🚀 Live Demo
 [View Website](https://a7medsobih.github.io/elit-machinery/)
@@ -13,4 +13,4 @@ Includes sections for company overview, products, services, and contact details.
 - JavaScript  
 
 ## 🎯 About the Project
-This template was created as part of a task to design a professional company website for the industrial sector.
+This template was developed as part of a practical task to create a modern, responsive website suitable for industrial businesses.
